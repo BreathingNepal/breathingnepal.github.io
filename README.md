@@ -1,2 +1,2 @@
-# breathingnepal.github.io
+# Breathing Nepal
 Breathing Nepal's official github page.
