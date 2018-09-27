@@ -1,2 +1,2 @@
-# Breathing Nepal
-Breathing Nepal's official github page.
+# Nepal.AI
+Nepal.AI's official GitHub page.
